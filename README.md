@@ -1,4 +1,4 @@
-<h1 align='center'><a href = "https://mehedimk.github.io/Django-Map-Project/">Django Map Project</a></h1>
+<h1 align='center'><a href = "https://mehedimk.github.io/Django-Map-Project/" target="_blank">Django Map Project</a></h1>
 
 
 # How to Run this Project
@@ -19,6 +19,6 @@
 
 <details> 
   <summary>@MehediMK 👋✍</summary>
-  <p><a href = "www.facebook.com/mdmmhk">Contact me in Facebook</a></p>
+  <p><a href = "www.facebook.com/mdmmhk"  target="_blank">Contact me in Facebook</a></p>
   <p>Thank you!</p>
 </details>
