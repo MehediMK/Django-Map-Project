@@ -1,4 +1,4 @@
-<h1 align='center'><a href = "./index.html">Django Map Project</a></h1>
+<h1 align='center'><a href = "https://mehedimk.github.io/Django-Map-Project/">Django Map Project</a></h1>
 
 
 # How to Run this Project
@@ -14,7 +14,7 @@
 > python manage.py runserver
 
 ## Project Screenshort:
-![Django Ramadan schedule API](./screenshort.JPG)
+![Django Map Project](./screenshot.png)
 
 
 <details> 
